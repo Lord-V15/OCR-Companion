@@ -1,10 +1,3 @@
-/*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-View controller from which to invoke the document scanner.
-*/
-
 import UIKit
 import VisionKit
 import Vision

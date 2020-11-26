@@ -1,10 +1,3 @@
-/*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-View controller for unstructured text.
-*/
-
 import UIKit
 import Vision
 

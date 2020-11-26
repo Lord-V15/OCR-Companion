@@ -25,7 +25,6 @@
 		06DBA5312280B4EB00A015FC /* RecognizedTextDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecognizedTextDataSource.swift; sourceTree = "<group>"; };
 		387197103872D1C000000001 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4B7E5015DB18CE36C547E234 /* SampleCode.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = SampleCode.xcconfig; path = Configuration/SampleCode.xcconfig; sourceTree = "<group>"; };
-		F8CBF7B03309697924E769C1 /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		FAB06DFC2272614F00B3D181 /* BusinessCompanion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BusinessCompanion.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAB06DFF2272614F00B3D181 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAB06E012272614F00B3D181 /* DocumentScanningViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentScanningViewController.swift; sourceTree = "<group>"; };
@@ -54,14 +53,6 @@
 			name = Configuration;
 			sourceTree = "<group>";
 		};
-		3E815D8AF230C03BF2218216 /* LICENSE */ = {
-			isa = PBXGroup;
-			children = (
-				F8CBF7B03309697924E769C1 /* LICENSE.txt */,
-			);
-			path = LICENSE;
-			sourceTree = "<group>";
-		};
 		FA5C0FC8227284B8004F03CF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -77,7 +68,6 @@
 				FAB06DFD2272614F00B3D181 /* Products */,
 				FA5C0FC8227284B8004F03CF /* Frameworks */,
 				0514F24E46E0F5E3B8DBDAE6 /* Configuration */,
-				3E815D8AF230C03BF2218216 /* LICENSE */,
 			);
 			sourceTree = "<group>";
 		};
