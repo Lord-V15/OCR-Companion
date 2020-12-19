@@ -1,6 +1,6 @@
 # Structuring Recognized Text on a Document
 
-Detect, recognize, and structure text on a business card, receipt or any other document using Vision and VisionKit.
+Run an OCR on any document from your iPhone using the power of CreateML.
 
 ## Overview
 
